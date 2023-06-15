@@ -33,6 +33,10 @@ $html = "<!DOCTYPE html>
 </head>
 
 <body contenteditable>
+    <div class='container'>
+        <div class='row'></div>
+    
+    </div>
     <h1 class='naglowek'>Curriculum Vitae</h1>
     <h2>$name</h2>
     <h3 class='naglowek3'>Contact details</h3>
